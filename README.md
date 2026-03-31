@@ -7,7 +7,7 @@
 ## 📁 Project Structure
 
 ```
-nlp2-project/
+sentiment-sarcasm-detection-lstm-glove/
 │
 ├── NLP2_Project.ipynb                  # Main Jupyter Notebook
 ├── NLP2_Project.html                   # HTML export of the notebook
